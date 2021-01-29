@@ -1,5 +1,4 @@
-# BootstrapTutorials
-
+# Vue JS
 ## This project is based on different tutorials from the web.
 
-Basics of bootstrap
+Basics of Vue.js
